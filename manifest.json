@@ -1,8 +1,8 @@
 {
-  "name": "After-Work Window",
-  "short_name": "After-Work",
-  "description": "After-work climbing and activity dashboard for Sheffield",
-  "start_url": "/",
+  "name": "GritHour - Peak District Climbing",
+  "short_name": "GritHour",
+  "description": "GritHour climbing and activity dashboard for Sheffield",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#f7f6f2",
   "theme_color": "#01696f",
