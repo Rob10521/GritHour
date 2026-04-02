@@ -1,0 +1,24 @@
+{
+  "name": "After-Work Window",
+  "short_name": "After-Work",
+  "description": "After-work climbing and activity dashboard for Sheffield",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#01696f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192 v2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512 v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
