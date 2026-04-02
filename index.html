@@ -384,7 +384,7 @@
 
         // Register service worker for PWA install
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('service-worker.js')
+            navigator.serviceWorker.register('/GritHour/service-worker.js')
                 .then(reg => console.log('SW registered:', reg.scope))
                 .catch(err => console.log('SW registration failed:', err));
         }
