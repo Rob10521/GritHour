@@ -3,11 +3,11 @@
 
 const CACHE_NAME = 'afterwork-v1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/icon-192 v2.png',
-  '/icon-512 v2.png',
-  '/manifest.json'
+  '/GritHour/',
+  '/GritHour/index.html',
+  '/GritHour/manifest.json',
+  '/GritHour/icons/icon-192.png',
+  '/GritHour/icons/icon-512.png'
 ];
 
 // Install: cache shell assets
